@@ -38,6 +38,13 @@
   background-color: #dba35a;
 }
 
+
+.btn-outline-success {
+    color: black;
+    border-color: black;
+}
+
+
 /* Changes the colour of the entire body of the page */
 body {
   background-color: #ddb892;
