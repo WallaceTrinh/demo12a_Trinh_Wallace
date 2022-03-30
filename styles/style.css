@@ -4,12 +4,12 @@
  */
 /* Changes the colour of the Top Navigation Bar */
 .bg-info {
-  background-color: #cb997e !important;
+  background-color: #9c6644 !important;
 }
 
 /* Changes the colour of Application Name */
 .navbar-light .navbar-brand {
-  color: #7f5539;
+  color: #ede0d4;
 }
 
 /* Left Primary "Sign-Up" Button */
